@@ -19,6 +19,8 @@ mv start-os-js-glitch/runIt.sh ..
 rm -rf start-os-js-glitch
 rm -rf git-notify
 
+ls
+pwd
 chmod +x upgrade.sh
 refresh
 #clear
