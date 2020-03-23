@@ -14,10 +14,10 @@ cd ..
 git clone https://github.com/MiguelEXE/start-os-js-glitch.git
 git clone https://github.com/jakeonrails/git-notify
 
-mv git-notify/git-notify ..
+mv git-notify/git-notify .
 mv git-notify auto-updater
 
-mv start-os-js-glitch/runIt.sh ..
+mv start-os-js-glitch/runIt.sh .
 rm -rf start-os-js-glitch
 rm -rf git-notify
 
