@@ -1,4 +1,4 @@
-# [![button](https://www.os-js.org/images/logo.svg)](https://www.os-js.org/) for Glitch
+# [![button](https://www.os-js.org/images/logo.svg)](https://www.os-js.org/) for [Glitch](https://glitch.com)
 
 to install create a new project hello-webpage and go to terminal:
 
