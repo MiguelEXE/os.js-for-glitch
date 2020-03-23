@@ -22,7 +22,7 @@ and then click in reconnect
 
 now to install, type in the terminal:
 
-chmod +x installIt.sh&&refresh&&./install.sh&&chmod -x installIt.sh
+chmod +x install.sh&&refresh&&./install.sh&&chmod -x install.sh
 
 now type: exit
 
