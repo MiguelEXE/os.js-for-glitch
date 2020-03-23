@@ -10,6 +10,16 @@ now to download \(clone\) the project, type in the terminal:
 
 git clone https://github.com/MiguelEXE/os.js-for-glitch && mv os.js-for-glitch/* . && refresh && clear
 
+to verify if node is installed, type in the terminal:
+
+node -v
+
+if is not installed, type in the terminal:
+
+enable-pnpm && exit
+
+and then click in reconnect
+
 now to install, type in the terminal:
 
 chmod +x installIt.sh&&refresh&&./installIt.sh&&chmod -x installIt.sh
