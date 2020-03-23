@@ -24,4 +24,10 @@ now to install, type in the terminal:
 
 chmod +x installIt.sh&&refresh&&./installIt.sh&&chmod -x installIt.sh
 
-now OS.js is installed
+now type: exit
+
+and then click click in the terminal icon to close it or click in X button
+
+check you log if installation is complete
+
+if appers right, the installation is complete
