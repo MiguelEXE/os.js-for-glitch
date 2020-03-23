@@ -22,5 +22,5 @@ rm -rf start-os-js-glitch
 rm -rf git-notify
 
 refresh
-clear
+#clear
 echo Check you application logs
