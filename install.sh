@@ -21,5 +21,5 @@ rm -rf git-notify
 
 chmod +x upgrade.sh
 refresh
-clear
+#clear
 echo Check you application logs
