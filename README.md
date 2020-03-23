@@ -31,3 +31,5 @@ and then click click in the terminal icon to close it or click in X button
 check you log if installation is complete
 
 if appers right, the installation is complete
+
+if refresh and dont connect, type chmod +x *.sh&&./uninstall.sh&&./install.sh&&chmod -x uninstall.sh&&chmod -x install.sh
