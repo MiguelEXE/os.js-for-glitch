@@ -18,6 +18,8 @@ mv git-notify auto-updater
 mv start-os-js-glitch/runIt.sh ..
 rm -rf start-os-js-glitch
 rm -rf git-notify
+
+chmod +x upgrade.sh
 refresh
 clear
 echo Check you application logs
