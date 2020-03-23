@@ -35,3 +35,7 @@ if appers right, the installation is complete
 if refresh and dont connect, type in terminal:
 
 chmod +x reinstall.sh&&./reinstall.sh&&chmod -x reinstall.sh
+
+to uninstall type:
+
+chmod +x uninstall.sh&&./uninstall.sh&&chmod -x uninstall.sh
