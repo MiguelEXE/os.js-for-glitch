@@ -9,6 +9,8 @@ pnpm run build
 refresh
 clear
 
+cd ..
+
 git clone https://github.com/MiguelEXE/start-os-js-glitch.git
 git clone https://github.com/jakeonrails/git-notify
 
@@ -19,9 +21,6 @@ mv start-os-js-glitch/runIt.sh ..
 rm -rf start-os-js-glitch
 rm -rf git-notify
 
-ls
-pwd
-chmod +x upgrade.sh
 refresh
-#clear
+clear
 echo Check you application logs
