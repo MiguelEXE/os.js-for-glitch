@@ -24,15 +24,13 @@ now to install, type in the terminal:
 
 chmod +x install.sh&&refresh&&./install.sh&&chmod -x install.sh
 
-now type: exit
-
-and then click click in the terminal icon to close it or click in X button
+and wait to complete the installation, after installlation close your log
 
 check you log if installation is complete
 
 if appers right, the installation is complete
 
-if refresh and dont connect, type in terminal:
+if refresh and dont connect, refresh glitch page and type in terminal:
 
 chmod +x reinstall.sh&&./reinstall.sh&&chmod -x reinstall.sh
 
